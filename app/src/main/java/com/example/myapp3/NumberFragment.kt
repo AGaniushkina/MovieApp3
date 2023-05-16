@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
+import android.widget.ImageView
 
 const val ARG_OBJECT = "object"
 
@@ -20,8 +21,7 @@ class NumberFragment : Fragment() {
     }
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         arguments?.takeIf { it.containsKey(ARG_OBJECT) }?.apply {
-            val textView: TextView = view.findViewById(R.id.textView)
-            textView.text = getInt(ARG_OBJECT).toString()
+            val imageView: ImageView = view.findViewById(R.id.spider_cast1)
         }
     }
 
