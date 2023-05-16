@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">myApp3</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="button_play">Play Trailer</string>
+
+    <string name="title_spiderman">Spiderman: No Way Home</string>
+
+    <string name="spiderman_imdb_rating">9.1/10 IMDb</string>
+    <string name="spiderman_length">2h 28min</string>
+    <string name="english_language">English</string>
+    <string name="pg13_rating">PG-13</string>
+
+    <string name="title_language">Language</string>
+    <string name="title_rating">Rating</string>
+    <string name="title_length">Length</string>
+    <string name="spiderman_description">With Spider-Man\'s identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_tickets">Tickets</string>
+    <string name="title_bookmarks">Bookmarks</string>
+
+    <string name="desc_home">FilmKu</string>
+
+    <string name="movie_title">Venom Let There Be Carnage</string>
+    <string name="default_imdb_rating">6.4/10 IMDb</string>
+    <string name="duration">1h 47m</string>
+
+    <string name="movie_title2">The King\'s Man</string>
+    <string name="default_imdb_rating2">8.4/10 IMDb</string>
+    <string name="duration2">1h 17m</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
